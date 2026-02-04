@@ -45,10 +45,11 @@ The GPS data is processed by the microcontroller.
 Using the GSM module, an SMS alert containing the user’s real-time location is sent to predefined emergency contacts.
 The alert enables quick action and timely assistance.
 This entire process happens without smartphone dependency, ensuring uninterrupted performance during emergencies.
+
+**Output Screenshots:**
 <img width="1075" height="425" alt="image" src="https://github.com/user-attachments/assets/491c9e52-f41d-49a8-af29-18a20e928bfb" />
 <img width="1075" height="444" alt="image" src="https://github.com/user-attachments/assets/44ccfbe1-c016-455c-9b7f-1f71ebc7f6d7" />
-
-
+<img width="1135" height="631" alt="Screenshot (113)" src="https://github.com/user-attachments/assets/ae82b7f9-47e3-450a-827a-ea4dd4e13458" />
 
 **🎯 Applications**
 Personal safety for women
