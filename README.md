@@ -34,6 +34,8 @@ Software & Technologies
                     IoT Concepts
                     GPS Tracking System
                     GSM-based SMS Alert System
+<img width="867" height="604" alt="Hardware Component&#39;s " src="https://github.com/user-attachments/assets/1f9abdc5-1a19-4686-b43d-5b5cf80d32a5" />
+
 
 **⚙️ Working of the Device**
 The Smart Safety Band continuously remains in standby mode.
@@ -43,6 +45,10 @@ The GPS data is processed by the microcontroller.
 Using the GSM module, an SMS alert containing the user’s real-time location is sent to predefined emergency contacts.
 The alert enables quick action and timely assistance.
 This entire process happens without smartphone dependency, ensuring uninterrupted performance during emergencies.
+<img width="1075" height="425" alt="image" src="https://github.com/user-attachments/assets/491c9e52-f41d-49a8-af29-18a20e928bfb" />
+<img width="1075" height="444" alt="image" src="https://github.com/user-attachments/assets/44ccfbe1-c016-455c-9b7f-1f71ebc7f6d7" />
+
+
 
 **🎯 Applications**
 Personal safety for women
