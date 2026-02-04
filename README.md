@@ -23,24 +23,24 @@ The system is lightweight, portable, user-friendly, and suitable for continuous 
 
 **🛠️ Technologies & Devices Used**
 Hardware Components:
-                    Microcontroller - Arduino Nano
-                    GPS Module (for real-time location tracking) - Neo-6M
-                    GSM Module (for SMS communication) - SIM800A
-                    Panic Button
-                    Power Supply / Battery - 3.7 Li-ion
-                    Wearable Band Enclosure
+                    Microcontroller - Arduino Nano                                                                                                                                                                  
+                    GPS Module (for real-time location tracking) - Neo-6M                                                                                                                                           
+                    GSM Module (for SMS communication) - SIM800A                                                                                                                                                    
+                    Panic Button                                                                                                                                                                                    
+                    Power Supply / Battery - 3.7V Li-ion                                                                                                                                                            
+                    Wearable Band Enclosure                                                                                                                                                                         
 Software & Technologies
-                    Embedded C++ / Microcontroller Programming
-                    IoT Concepts
-                    GPS Tracking System
-                    GSM-based SMS Alert System
+                    Embedded C++ / Microcontroller Programming                                                                                                                                                      
+                    IoT Concepts                                                                                                                                                                                    
+                    GPS Tracking System                                                                                                                                                                             
+                    GSM-based SMS Alert System                                                                                                                                                                    
 <img width="867" height="604" alt="Hardware Component&#39;s " src="https://github.com/user-attachments/assets/1f9abdc5-1a19-4686-b43d-5b5cf80d32a5" />
 
 
 **⚙️ Working of the Device**
-The Smart Safety Band continuously remains in standby mode.
-In an emergency situation, the user presses the panic button.
-The device immediately fetches the current GPS location.
+The Smart Safety Band continuously remains in standby mode.                                                                                                                                                         
+In an emergency situation, the user presses the panic button.                                                                                                                                                       
+The device immediately fetches the current GPS location.                                                                                
 The GPS data is processed by the microcontroller.
 Using the GSM module, an SMS alert containing the user’s real-time location is sent to predefined emergency contacts.
 The alert enables quick action and timely assistance.
